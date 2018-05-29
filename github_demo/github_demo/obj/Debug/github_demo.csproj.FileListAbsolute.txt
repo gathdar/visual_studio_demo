@@ -1,0 +1,7 @@
+C:\Users\SirJUST\Documents\GitHub\visual_studio_demo\github_demo\github_demo\bin\Debug\github_demo.exe.config
+C:\Users\SirJUST\Documents\GitHub\visual_studio_demo\github_demo\github_demo\bin\Debug\github_demo.exe
+C:\Users\SirJUST\Documents\GitHub\visual_studio_demo\github_demo\github_demo\bin\Debug\github_demo.pdb
+C:\Users\SirJUST\Documents\GitHub\visual_studio_demo\github_demo\github_demo\obj\Debug\github_demo.csprojAssemblyReference.cache
+C:\Users\SirJUST\Documents\GitHub\visual_studio_demo\github_demo\github_demo\obj\Debug\github_demo.csproj.CoreCompileInputs.cache
+C:\Users\SirJUST\Documents\GitHub\visual_studio_demo\github_demo\github_demo\obj\Debug\github_demo.exe
+C:\Users\SirJUST\Documents\GitHub\visual_studio_demo\github_demo\github_demo\obj\Debug\github_demo.pdb
