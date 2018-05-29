@@ -11,6 +11,7 @@ namespace github_demo
         static void Main(string[] args)
         {
             Console.WriteLine("Github demo");
+            Console.WriteLine("This file has been changed.");
             Console.ReadLine();
         }
     }
